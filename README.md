@@ -28,12 +28,12 @@
 
         <section id="Unicode">
             <h3>Unicode</h3>
-            <textarea id="unicode" onfocus="handleOnFocus(this)" onblur="handleOnBlur()">သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ္ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေး ဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။</textarea>
+            <textarea id="unicode" onfocus="handleOnFocus(this)" onblur="handleOnBlur()">နာဲသုၚ်စောဲ Unicode ဟာ သုၚ်စောဲ Mon ဟာ ဟွံပြေပြံၚ်တှေ်စမ်ရံၚ်အဏံ တက်သီုၜါဘာသာဂွံ</textarea>
         </section>
         
         <section id="Zawgyi">
             <h3>Mon</h3>
-            <textarea id="zawgyi" onfocus="handleOnFocus(this)" onblur="handleOnBlur()">သီဟိုဠ္မွ ဉာဏ္ႀကီးရွင္သည္ အာယုဝၯနေဆးၫႊန္းစာကို ဇလြန္ေဈးေဘး ဗာဒံပင္ထက္ အဓိ႒ာန္လ်က္ ဂဃနဏဖတ္ခဲ့သည္။</textarea>
+            <textarea id="zawgyi" onfocus="handleOnFocus(this)" onblur="handleOnBlur()">နာဲသုင္ေစာဲ Unicode ဟာ သုင္ေစာဲ Mon ဟာ ဟြံေျပျပံင္ေတွ္စမ္ရံင္အဏံ တက္သီုၐါဘာသာဂြံ </textarea>
         </section>
     </div>
     <div id="textContainer">

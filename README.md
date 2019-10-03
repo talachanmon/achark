@@ -19,8 +19,8 @@
 <body>
 <div id="container">
 	<header>
-		<img src="./Mon to Unicode_files/logo.gif">
-		<h2>Rabbit</h2>
+		<a href="https://fb.com/talachan"><img src="./Mon to Unicode_files/logo.gif"></a>
+		<h2>A Chark</h2>
 	</header>
   <br>
   

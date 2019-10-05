@@ -19,7 +19,7 @@
 <body>
 <div id="container">
 	<header>
-		<a href="https://fb.com/talachan"><img src="./Mon to Unicode_files/logo.gif"></a>
+		<a href="https://web.facebook.com/themonproduction/"><img src="./Mon to Unicode_files/logo.gif"></a>
 		<h2>A Chark</h2>
 	</header>
   <br>
@@ -44,7 +44,7 @@
     </section>
   </div>
 	<footer>
-		Found a bug ? Please , open <a href="https://fb.com/talachan">new issue</a>.
+		Found a bug ? Please , open <a href="https://web.facebook.com/themonproduction/">new issue</a>.
 	</footer>
 </div>
 

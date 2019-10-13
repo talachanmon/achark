@@ -1,3 +1,8 @@
+/Mon Unicode Anonta Font/
+@font-face {
+font-family:'MON3 Anonta 1';
+src:local('MON3 Anonta 1'), url('https://mmwebfonts.comquas.com/fonts/mon3.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/mon3.ttf') format('ttf');
+}
 /* myanmar */	
 @font-face {	
   font-family: 'Padauk';	

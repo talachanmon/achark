@@ -1,4 +1,16 @@
 @font-face {
-font-family:'Zawgyi-One';
-src:local('Zawgyi-One'), url('https://mmwebfonts.comquas.com/fonts/zawgyi.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/zawgyi.ttf') format('ttf');
+    font-family: 'Mon';
+    src: url('Mon.eot');
+    src: url('Mon.eot?#iefix') format('embedded-opentype'),
+        url('Mon.woff2') format('woff2'),
+        url('Mon.woff') format('woff'),
+        url('Mon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+font-family:'Mon';
+src:local('Mon'), url('Mon.woff') format('woff'),, url('Mon.ttf') format('truetype');
 }

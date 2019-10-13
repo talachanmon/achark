@@ -8,9 +8,3 @@
     font-weight: normal;
     font-style: normal;
 }
-
-
-@font-face {
-font-family:'Mon';
-src:local('Mon'), url('Mon.woff') format('woff'),, url('Mon.ttf') format('truetype');
-}

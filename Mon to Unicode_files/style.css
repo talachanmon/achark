@@ -4,15 +4,6 @@ font-family:'MON3 Anonta 1';
 src:local('MON3 Anonta 1'), url('https://mmwebfonts.comquas.com/fonts/mon3.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/mon3.ttf') format('ttf');
 }
 
-@font-face {
-font-family:'Pyidaungsu';
-src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.ttf') format('ttf');
-}
-@font-face {
-font-family:'Pyidaungsu';
-src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Bold.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Bold.ttf') format('ttf');
-font-weight:bold;
-}
 /* myanmar */	
 @font-face {	
   font-family: 'Padauk';	
@@ -84,7 +75,7 @@ textarea{
 	display:inline-block;
 	width:48%;
 	padding-left: 10px;
-	font-family: "Pyidaungsu", "MON3 Anonta 1", "TharLon", "Padauk";
+	font-family: "MON3 Anonta 1", "TharLon", "Padauk";
 	
 	
 
